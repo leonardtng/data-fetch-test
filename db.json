@@ -3,92 +3,52 @@
         {
             "id": 1,
             "owner": "jeffrey",
-            "name": "Robot House Alarm",
-            "tags": [
-                "Python",
-                "C++"
-            ]
+            "name": "Robot House Alarm"
         },
         {
             "id": 2,
             "owner": "serenetay",
-            "name": "Simple Snake Game",
-            "tags": [
-                "Python",
-                "Java"
-            ]
+            "name": "Simple Snake Game"
         },
         {
             "id": 3,
             "owner": "leonardtng",
-            "name": "Forum Website",
-            "tags": [
-                "Java",
-                "Ruby"
-            ]
+            "name": "Forum Website"
         },
         {
             "id": 4,
             "owner": "serenetay",
-            "name": "Web API Snippets",
-            "tags": [
-                "Ruby",
-                "C#"
-            ]
+            "name": "Web API Snippets"
         },
         {
             "id": 5,
             "owner": "serenetay",
-            "name": "Design and Programming",
-            "tags": [
-                "PHP"
-            ]
+            "name": "Design and Programming"
         },
         {
             "id": 6,
             "owner": "leonardtng",
-            "name": "Plant Watering with Arduino",
-            "tags": [
-                "C++"
-            ]
+            "name": "Plant Watering with Arduino"
         },
         {
             "id": 7,
             "owner": "serenetay",
-            "name": "Full-Stack Blockchain",
-            "tags": [
-                "HTML",
-                "CSS",
-                "Javascript"
-            ]
+            "name": "Full-Stack Blockchain"
         },
         {
             "id": 8,
             "owner": "jeffrey",
-            "name": "VR Software Architecture",
-            "tags": [
-                "HTML",
-                "CSS",
-                "PHP"
-            ]
+            "name": "VR Software Architecture"
         },
         {
             "id": 9,
             "owner": "serenetay",
-            "name": "Hosting a Local Blockchain",
-            "tags": [
-                "HTML",
-                "CSS",
-                "Python"
-            ]
+            "name": "Hosting a Local Blockchain"
         },
         {
             "id": 10,
             "owner": "leonardtng",
-            "name": "Basic Neural Networks",
-            "tags": [
-                "C++"
-            ]
+            "name": "Basic Neural Networks"
         }
     ]
 }
